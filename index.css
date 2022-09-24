@@ -39,9 +39,28 @@ h2{
     padding: 5px;
     border-radius: 15px;
 }
-p:hover{
+.p *:hover{
     color: white;
     background-color: black;
     transition: 1.1s;
     scale: 1.1;
+}
+.somos{
+    margin: 50px auto;
+    width: 55%;
+    height: 600px;
+    background-color: rgba(236, 197, 182, 0.658);
+    text-align: center;
+    padding: 40px;
+    border-radius: 10px;
+}
+.somos *{
+    margin-bottom: 10px;
+}
+.imgs{
+    width: 100%;
+    height: 400px;
+    background-image: url(https://www.itmastersmag.com/wp-content/uploads/2021/01/shutterstock_1078387013-scaled.jpg);
+    background-size: cover;
+    border-radius: 15px;
 }
