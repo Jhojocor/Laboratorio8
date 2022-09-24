@@ -64,3 +64,21 @@ h2{
     background-size: cover;
     border-radius: 15px;
 }
+.mision{
+    padding: 15px;
+    width: 42%;
+    height: 500px;
+    background-color: rgba(236, 197, 182, 0.658);
+    border-radius: 15px;
+}
+.somos2{
+    margin: 50px auto;
+    width: 55%;
+    height: 520px;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+.somos2 *{
+    margin-bottom: 10px;
+}
