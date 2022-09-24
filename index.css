@@ -48,8 +48,7 @@ h2{
 .somos{
     margin: 50px auto;
     width: 55%;
-    height: 600px;
-    background-color: rgba(236, 197, 182, 0.658);
+    height: 400px;
     text-align: center;
     padding: 40px;
     border-radius: 10px;
@@ -59,7 +58,7 @@ h2{
 }
 .imgs{
     width: 100%;
-    height: 400px;
+    height: 200px;
     background-image: url(https://www.itmastersmag.com/wp-content/uploads/2021/01/shutterstock_1078387013-scaled.jpg);
     background-size: cover;
     border-radius: 15px;
@@ -67,17 +66,19 @@ h2{
 .mision{
     padding: 15px;
     width: 42%;
-    height: 500px;
-    background-color: rgba(236, 197, 182, 0.658);
+    height: 490px;
+    background-color: rgba(255, 205, 185, 0.445);
     border-radius: 15px;
+    margin: 15px;
 }
 .somos2{
-    margin: 50px auto;
+    margin: -80px auto;
     width: 55%;
     height: 520px;
     text-align: center;
     padding: 20px;
     border-radius: 10px;
+    display: flex;
 }
 .somos2 *{
     margin-bottom: 10px;
