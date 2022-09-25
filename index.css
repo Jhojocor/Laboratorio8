@@ -30,9 +30,9 @@ h2{
     cursor: pointer;
 }
 .p *{
+    font-size: 18px;
     margin-right: 15px;
-    color: black;
-    background-color: white;
+    color: white;
     height: 35px;
     display: flex;
     align-items: center;
@@ -72,7 +72,7 @@ h2{
     margin: 15px;
 }
 .somos2{
-    margin: -80px auto;
+    margin: -70px auto;
     width: 55%;
     height: 520px;
     text-align: center;
@@ -82,4 +82,32 @@ h2{
 }
 .somos2 *{
     margin-bottom: 10px;
+}
+.contacto{
+    width: 100%;
+    height: 250px;
+    background-color: rgb(47, 163, 179);
+    margin-top: 95px;
+}
+.organizador{
+    margin: 0 auto;
+    width: 500px;
+    height: 210px;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+}
+.organizador *{
+    margin-top: 25px;
+}
+.boton{
+    width: 90px;
+    height: 35px;
+    border-radius: 15px;
+    border-color: #fff;
+}
+.boton:hover{
+    transition: 1.1s;
+    scale: 1.2;
+
 }
